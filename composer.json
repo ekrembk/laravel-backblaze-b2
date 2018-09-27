@@ -17,6 +17,10 @@
         {
             "type": "vcs",
             "url": "http://github.com/ekrembk/flysystem-backblaze"
+        },
+        {
+            "type": "vcs",
+            "url": "http://github.com/ekrembk/backblaze-b2"
         }
     ],
     "require": {
