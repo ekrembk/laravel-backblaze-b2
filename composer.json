@@ -13,6 +13,12 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "url": "https://github.com/ekrembk/flysystem-backblaze",
+            "type": "git"
+        }
+    ],
     "require": {
         "php": ">=5.6.0",
         "ekrembk/flysystem-backblaze": "dev-sha-fix"
