@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=5.6.0",
-        "ekrembk/flysystem-backblaze": "dev-master"
+        "ekrembk/flysystem-backblaze": "^1.1.5"
     },
     "require-dev": {
         "phpunit/phpunit" : "~4.0||~5.0",
